@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Navegando Entre Activities</string>
+    <string name="ir_activity_dois"> ir para segunda activity </string>
+    <string name="ir_activity_um"> ir para primeira activity </string>
+</resources>
